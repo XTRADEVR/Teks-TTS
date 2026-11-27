@@ -1,0 +1,6 @@
+{
+  "name": "Venice AI",
+  "description": "Private, anonymous AI assistant with research, Mermaid diagrams, visual prompts, video storyboards, and Gemini 3.8 Flash Text-to-Speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
